@@ -1,0 +1,2 @@
+# Dimensionality-Reduction-and-Association-Analysis
+1. Implemented Principal Component Analysis algorithm to reduce high dimensional biomedical data to 2 Dimensions which helped in better visualization and analysis of various associated diseases present in data set. The results were compared with t-SNE and SVD algorithms.  2. Also, implemented the Apriori algorithm to find the frequent itemsets and generated association rules. This helped in classifying various genes as per their similar characteristics to a particular disease.
